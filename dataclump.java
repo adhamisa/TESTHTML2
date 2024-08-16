@@ -17,5 +17,5 @@ public class Order {
         System.out.println("State: " + state);
         System.out.println("Zip Code: " + zipCode);
     }
-    
+
 }
